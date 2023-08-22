@@ -2,11 +2,14 @@
 ##### FOUAD HANNA BLDG. GROUND FLOOR ·KNISEH STREET·MIEH W MIEH, SAIDA, LEBANON
 ##### +961 76 942 881 - sleimananitta@gmail.com
 
-[![Build Status](https://www.educative.io/cdn-cgi/image/format=auto,width=600,quality=75/api/page/6462443168989184/image/download/6429479353712640)
 ## Objective
 Applying to a Junior Web Developer Internship at Codi-tech.
 
 ## Education
+Sep 2021 – Sep 2022 Lebanese University
+Master’s Degree (M2) in International Organizations
+- Completed all coursework required for the degree.
+- Did not complete the internship component.
 
 Sep 2019 - July 2021 Lebanese University
 Master’s Degree (M1) in Law
