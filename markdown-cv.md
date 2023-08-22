@@ -48,3 +48,5 @@ Proficient in written and spoken English.
 
 ## REFERENCES
 Available upon request
+
+![Build Status](https://www.educative.io/cdn-cgi/image/format=auto,width=200,quality=75/api/page/6462443168989184/image/download/6429479353712640)
